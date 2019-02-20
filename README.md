@@ -24,7 +24,10 @@ Register App:
 		
 		registerCustomElement(App, "table-comp")
 
-	go into public and add your component to index.html
+	go into public and add your component to index.html and add:
+
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 
 ```
