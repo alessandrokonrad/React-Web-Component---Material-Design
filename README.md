@@ -34,7 +34,6 @@ Reference to: https://github.com/bspaulding/react-custom-element
 ```
 
 
-```
 ## Available Scripts
 
 In the project directory, you can run:
@@ -61,4 +60,3 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-```
